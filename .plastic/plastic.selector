@@ -1,0 +1,4 @@
+repository "testgit@admintp@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
